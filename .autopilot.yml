@@ -1,0 +1,5 @@
+language: python
+style: functional
+domain: voice-agents
+target_branch: main
+test_framework: pytest
